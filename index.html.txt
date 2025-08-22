@@ -33,7 +33,7 @@
                 <!-- Profile Photo -->
                 <div class="photo-container">
                     <div class="photo-wrapper">
-                        <img src="attached_assets/upscalemedia-transformed_1755693905811.png" 
+                        <img src="images/profile.jpg.png" alt="Raj Kumar - Data Analyst" class="profile-photo">
                              alt="Raj Kumar - Data Analyst" class="profile-photo">
                         <div class="photo-badge">
                             <i class="fas fa-chart-bar"></i>
@@ -133,7 +133,7 @@
                 </div>
                 
                 <div class="about-image">
-                    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600" 
+                    <img src="images/about.jpg.png" alt="Data analytics workspace"> 
                          alt="Data analytics workspace">
                 </div>
             </div>
@@ -290,7 +290,7 @@
 
             <div class="portfolio-grid">
                 <div class="portfolio-item">
-                    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=500" 
+                    <img src="images/portfolio1.jpg.png" alt="Sales Analytics Dashboard"> 
                          alt="Sales Analytics Dashboard">
                     <div class="portfolio-content">
                         <h3>Sales Analytics Dashboard</h3>
@@ -304,7 +304,7 @@
                 </div>
 
                 <div class="portfolio-item">
-                    <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=500" 
+                    <img src="images/portfolio2.jpg.png" alt="Financial Analysis Dashboard"> 
                          alt="Financial Analysis Dashboard">
                     <div class="portfolio-content">
                         <h3>Financial Analysis Dashboard</h3>
@@ -318,7 +318,7 @@
                 </div>
 
                 <div class="portfolio-item">
-                    <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=500" 
+                    <img src="images/portfolio3.jpg" alt="HR Analytics Dashboard"> 
                          alt="HR Analytics Dashboard">
                     <div class="portfolio-content">
                         <h3>HR Analytics Dashboard</h3>
@@ -481,4 +481,5 @@
 
     <script src="script.js"></script>
 </body>
+
 </html>
